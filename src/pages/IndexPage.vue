@@ -16,7 +16,7 @@
       <q-input
         filled
         type="number"
-        v-model="年龄"
+        v-model="年龄 "
         label="你的年龄 *"
         lazy-rules
         :rules="[
